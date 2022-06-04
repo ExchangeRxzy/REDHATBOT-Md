@@ -21,10 +21,10 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['62895369318181']
-global.premium = ['62895369318181']
-global.ownernomer = '62895369318181'
-global.ownername = 'Koleksibot X You🔥'
+global.owner = ['6288287037007']
+global.premium = ['6288287037007']
+global.ownernomer = '6288287037007'
+global.ownername = 'Kyura'
 global.botname = 'REDHATBOT CLOUD 🤖'
 global.footer = 'By rootsec.xyz'
 global.ig = 'https://github.com/koleksibot'
